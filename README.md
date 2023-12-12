@@ -1,175 +1,125 @@
-# Justin Yanke's Computer Crash Course, a directory of resources with some direction and notes designed to help you understand computers and computer science better
- As my software engineering teacher in high school said: "learn to learn". Then all you need to do is figure out where to look.
- Teaching you where to look is something I have some good knowledge on.
+# Justin Yanke's Computer and Computer Science Crash Course
 
-The purpose of these resources is to provide you with the ability to learn beginner and advanced concepts for computer science with a very quick pace, while allowing high replayability.
-I'm putting this resource together for those of you wanting a couple-of-months commitment to learning about this complicated subject with a particular focus on learning where to look to dive deeper as you begin to understand these thingsbetter.
+A resource directory designed to help you understand computers and computer science better.
 
-Expect me to continuously improve this brief course. Feel free to open a Github Issue ticket to point out inaccuracies, complaints, comments, discussion, clarity requests, etc.
+"Learn to Learn"
+  - Vince, my awesome software engineering teacher
+Once you learn to learn, then all you need to do is figure out where to look. Knowing where to look is my primary objective in this space.
 
-Feel free to open a "Pull Request" to submit change suggestions.
+This course is a compilation of resources for learning both beginner and then advanced computer science concepts at a quick pace. It's designed for a couple of months' commitment with a focus on guiding you to deeper knowledge as your understanding evolves.
 
-##Week 1-2: Getting started: Understanding Computers
+Your feedback is crucial to making this as helpful as possible! Please open a GitHub Issue for inaccuracies, complaints, comments, discussion, clarity requests, etc. For changes to the readme, feel free to submit a Pull Request and it will be considered. Eventually discussion and questions may be moved elsewhere, i'm open to suggestions.
+
+## Week 1-2: Getting Started: Understanding Computers
         
-#Week 1: Understanding Computers 🖥️
-	Day 1-2: Introduction to Computers
+### Week 1: Understanding Computers 🖥️
 
-    Objective: Explore what computer science is and their historical evolution.
-    Topics:
-        The definition of a computer and its historical context.
-        Understanding the basic components and types of computers.
-    Personal Notes: I spoke to some people that work at Microsoft at a fairly-recent developer conference. Teaching children programming is clearly a high priority to them. Consequently, many amazing videos have been created with a focus towards people that may have not been introduced to computers in great depth. Enjoy videos and other resources below for a good introduction to what computer science is.
-    Resources:
-		History: https://opentextbooks.clemson.edu/sciencetechnologyandsociety/chapter/history-of-computers/
-				 https://compscicentral.com/history-of-computers/
-				
-        Microsoft's CS Education: Offers a range of educational resources and insights into computer science. https://www.youtube.com/watch?v=MAbtOVY_-L8
-			I love the Microsoft Education channel: https://www.youtube.com/@MicrosoftEDU/videos
-			There are many other channels similar to this that Microsoft provides. Microsoft also has excellent and easily-searchable documentation for both high-level general concepts as well as granular (detailed) advanced concepts.
+#### Day 1-2: Introduction to Computers
+- **Objective**: Explore what computer science is and its historical evolution.
+- **Topics**: The definition of a computer and its historical context; basic components and types of computers.
+- **Personal Notes**: Microsoft emphasizes teaching programming to children. Their resources, including videos, are excellent for beginners.
+- **Resources**:
+  - [History of Computers](https://compscicentral.com/history-of-computers/)
+  - [Microsoft's CS Education Video](https://www.youtube.com/watch?v=MAbtOVY_-L8)
+  - [Microsoft Education Channel](https://www.youtube.com/@MicrosoftEDU/videos)
 
-	Day 3: Inside a Computer
+#### Day 3: Inside a Computer
+- **Objective**: Delve into the internal workings of a computer.
+- **Topics**: CPU, Memory, Storage, I/O Devices.
+- **Resources**: [Microsoft Learn](https://learn.microsoft.com/en-us/training/modules/leverage-microsoft-computer-science-education-resource-guide/)
 
-    Objective: Delve into the internal workings of a computer.
-    Topics:
-        Detailed look at CPU, Memory, Storage, and I/O Devices.
-        How these components interact within the system.
-    Resources:
-        Microsoft Learn: Provides modules and insights on various computer science topics.
-        
-	Day 4: THE INTERNET
+#### Day 4: The Internet
+- **Objective**: Understand the history of the internet and how it works.
+- **Topics**: The inception and evolution of the internet.
+- **Resources**: 
+  - [The Invention of the Internet](https://www.youtube.com/watch?v=1UStbvRnwmQ)
+  - [The Evolution of the Internet](https://www.youtube.com/watch?v=1CsPHKJWiw0)
+  - [The Data Explosion](https://www.youtube.com/watch?v=eYkXD_cGUYU)
 
-    Objective: Understand the history of the internet and how it works.
-    Topics:
-        History of the internet
-    Resources:
-        How the internet was invented: https://www.youtube.com/watch?v=1UStbvRnwmQ
-        How the internet came to be: https://www.youtube.com/watch?v=1CsPHKJWiw0
-        The data explosion: https://www.youtube.com/watch?v=eYkXD_cGUYU
+#### Day 5-7: The Evolution of Computing
+- **Objective**: Understand the progression from early computing to modern-day PCs.
+- **Topics**: Mechanical devices to electronic computers; key milestones.
+- **Resources**: [Microsoft's CS Education Approach](https://www.microsoft.com/en-us/corporate-responsibility/computer-science)
 
-	Day 5-7: The Evolution of Computing
+### Week 2: How Computers Work
+- **Objective**: Grasp the foundational concepts of how computers operate.
+- **Topics**: Introduction to binary and data representation; basic computer architecture; motherboard functionality.
+- **Resources**: Explore various resources on [Computer Architecture](https://www.khanacademy.org/computing/computer-science)
 
-    Objective: Understand the progression from early computing to modern-day PCs.
-    Topics:
-        The journey from mechanical devices to electronic computers.
-        Key milestones in computer development.
-    Resources:
-        Microsoft's approach to CS education: Discusses the integration of computing in various jobs and its importance in modern education.
+### Week 3: Understanding the Windows operating system and other operating systems
+#### Under construction
+- **Objective**: Learn the basics of windows and other operating systems. Throughout the week, continuously apply more and more advanced fundamentals to use operating systems to your advantage.
+- **Topics**: Under construction
+- **Resources**: Under construction
+
+#### Graphics Processing Unit (GPU)
+- **Objective**: Understand the role and functionality of GPUs.
+- **Topics**: Differentiating between CPU and GPU; GPU's role in image rendering; GPU in AI.
+- **Resources**: [GPU and its Applications](https://www.nvidia.com/en-us/geforce/guides/what-is-gpu/)
+
+### Week 4: Computer Components and Their Responsibilities
+#### Memory and Storage
+- **Objective**: Learn about different types of memory and storage in computers.
+- **Topics**: RAM vs permanent storage; Data storage mechanisms; File systems overview.
+- **Resources**: [Understanding Memory and Storage](https://www.crucial.com/articles/about-memory)
+
+#### Input/Output Devices
+- **Objective**: Understand various input and output devices.
+- **Topics**: Keyboards, Mice, Touchscreens; Monitors, Printers; Peripheral devices.
+- **Resources**: [Input and Output Devices](https://www.bbc.co.uk/bitesize/guides/zc7sb82/revision/1)
+
+### Week 5-6: Computers and Human Ingenuity
+#### From Electric Concepts to Computing
+- **Objective**: Discover the electrical foundations of computing.
+- **Topics**: Basic electricity principles; Transistor revolution; Evolution to integrated circuits.
+- **Resources**: [History of Computing Hardware](https://www.computerhistory.org/timeline/computers/)
 
 
-#Week 2: How Computers Work
+! Under construction ... these weeks aren't formatted yet ... Under construction !
 
-    Objective: Grasp the foundational concepts of how computers operate.
-    Topics:
-        Introduction to binary and data representation.
-        Exploring basic computer architecture: CPU, Memory Hierarchy.
-        Functionality of motherboards and component interaction.
 
-#Week 3: Deep Dive into CPU and GPU
-Central Processing Unit (CPU)
+#Week 8: Introduction to Data Structures Fundamental Data Structures
 
-    Objective: Learn the architecture and functionality of CPUs.
-    Topics:
-        CPU internal structure: ALU, Control Unit, Registers.
-        The Fetch-Decode-Execute cycle.
-        Understanding CPU specifications: clock speed, cores, threads.
-
-Graphics Processing Unit (GPU)
-
-    Objective: Understand the role and functionality of GPUs.
-    Topics:
-        Differentiating between CPU and GPU.
-        GPU's role in image rendering and video processing.
-        Application of GPUs in advanced fields like AI and scientific computations.
-
-#Week 4: Computer Components and Their Responsibilities
-Memory and Storage
-
-    Objective: Learn about different types of memory and storage in computers.
-    Topics:
-        RAM vs permanent storage (HDDs, SSDs).
-        Data storage and retrieval mechanisms.
-        Overview of file systems.
-
-Input/Output Devices
-
-    Objective: Understand various input and output devices.
-    Topics:
-        Input devices: Keyboards, Mice, Touchscreens.
-        Output devices: Monitors, Printers.
-        Role and examples of peripheral devices.
-
-#Week 5-6: Computers and Human Ingenuity
-From Electric Concepts to Computing
-
-    Objective: Discover the electrical foundations of computing.
-    Topics:
-        Basic electricity principles in computing.
-        The revolution of transistors.
-        Evolution from vacuum tubes to integrated circuits.
-
-Software: Bringing Hardware to Life
-
-    Objective: Understand how software interacts with hardware.
-    Topics:
-        Introduction to operating systems.
-        Software's role in controlling hardware.
-        Primer on programming languages.
-
-#Week 7: Introduction to Programming Fundamentals
-Programming Languages
-
-    Objective: Get acquainted with programming languages.
-    Topics:
-        High-level languages: Python, Java.
-        Basic syntax and programming structure.
-        Writing and understanding simple programs.
-
-Basic Concepts in Programming
-
-    Objective: Learn fundamental programming concepts.
-    Topics:
-        Variables, data types, operators.
-        Control structures: loops, conditionals.
-        Functions and modular programming approach.
-
-#Week 8: Introduction to Data Structures
-Fundamental Data Structures
-
-    Objective: Understand basic data structures used in programming.
-    Topics:
-        Arrays, Lists.
-        Stacks, Queues.
-        Introduction to Dictionaries and Hashmaps.
+Objective: Understand basic data structures used in programming.
+Topics:
+    Arrays, Lists.
+    Stacks, Queues.
+    Introduction to Dictionaries and Hashmaps.
 
 Basic Algorithms
 
-    Objective: Learn simple algorithms and their efficiency.
-    Topics:
-        Simple sorting algorithms (Bubble Sort, Selection Sort).
-        Basic search algorithms (Linear, Binary Search).
-        Introduction to algorithm efficiency (Big O Notation).
+Objective: Learn simple algorithms and their efficiency.
+Topics:
+    Simple sorting algorithms (Bubble Sort, Selection Sort).
+    Basic search algorithms (Linear, Binary Search).
+    Introduction to algorithm efficiency (Big O Notation).
 
-#Week 9-10: Overview of Advanced Topics
-Web Development Basics
+#Week 9-10: Overview of Advanced Topics Web Development Basics
 
-    Objective: Gain a basic understanding of web development.
-    Topics:
-        HTML, CSS, JavaScript fundamentals.
-        Understanding client-server architecture.
-        Intro to web development frameworks.
+Objective: Gain a basic understanding of web development.
+Topics:
+    HTML, CSS, JavaScript fundamentals.
+    Understanding client-server architecture.
+    Intro to web development frameworks.
 
 Databases and Cloud Computing
 
-    Objective: Learn the basics of databases and cloud computing.
-    Topics:
-        SQL and NoSQL databases.
-        Introduction to cloud services (AWS, Azure, Google Cloud).
-        Significance of cloud computing in technology.
+Objective: Learn the basics of databases and cloud computing.
+Topics:
+    SQL and NoSQL databases.
+    Introduction to cloud services (AWS, Azure, Google Cloud).
+    Significance of cloud computing in technology.
 
 Emerging Technologies
 
-    Objective: Get an introductory view of emerging tech fields.
-    Topics:
-        Overview of machine learning and AI.
-        Basics of cybersecurity.
-        Mobile app development introduction.
+Objective: Get an introductory view of emerging tech fields.
+Topics:
+    Overview of machine learning and AI.
+    Basics of cybersecurity.
+    Mobile app development introduction.
+
+
+
+
+Stuff that doesn't have a place yet but I really like:
+https://edudownloads.azureedge.net/msdownloads/Microsoft_Computer_Science_Map.pdf
